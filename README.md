@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I enjoy programming and sharing knowledge<br>📚 Most used line of code console.log("hello world")<br>📧 How to reach me: barisamiw@gmail.com<br>🎲 Fun fact: null, undefined, NaN, 0</p>
+<p align="left">✨ I enjoy programming and sharing knowledge<br>📚 Most used line of code console.log("hello world")<br>📧 How to reach me: <a href='mailto:barisamiw@gmail.com'>barisamiw@gmail.com</a><br>🎲 Fun fact: null, undefined, NaN, 0</p>
 
 ###
 
@@ -68,11 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wvsr/wvsr/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wvsr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
